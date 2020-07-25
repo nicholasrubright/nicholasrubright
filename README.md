@@ -1,4 +1,5 @@
-### Hi there 👋
+# Nicholas Rubright - @nicholasrubright
+Hello! I'm Nick, a 4th year college student studying Computer Science. My interests include programming, video games mathematics. 
 
 <!--
 **nicholasrubright/nicholasrubright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
