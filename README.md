@@ -1,5 +1,5 @@
 # Hello 👋, I'm Nick
-I'm a 4th year college student studying Computer Science
+I'm a 4th year college student studying Computer Science intested in the field of Software Development
 
 ## My Interests
 - Programming 💻
