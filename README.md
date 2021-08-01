@@ -1,6 +1,6 @@
 # Hello 👋, I'm Nick
 
-I'm a software developer with a degree in computer science.
+I am an aspiring software developer. Right now I work with a variety technologies but mainly involved web development and software design.
 
 ## My Interests
 - Programming 💻
