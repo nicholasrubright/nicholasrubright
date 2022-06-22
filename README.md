@@ -1,6 +1,6 @@
 # Hello 👋, I'm Nick
 
-I am an aspiring software developer. Right now I work with a variety technologies but mainly involved web development and software design.
+I am a software developer. Right now I work with a variety technologies but mainly involved in web development and machine learning.
 
 ## My Interests
 - Programming 💻
