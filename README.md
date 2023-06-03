@@ -1,12 +1,21 @@
-# Hello 👋, I'm Nick
+# Hello 👋, I'm Nick!
 
-I am a software developer. Right now I work with a variety technologies but mainly involved in web development and machine learning.
+I am a software developer and I like to solve complex problems and creating efficient software. 
+
+I am always looking to expand my programming knowledge by either working on side projects or learning a new technology.
 
 ## My Interests
-- Programming 💻
-- Video Games 🕹
-- Mathematics 🧮
-- Astronomy   🔭
+- Programming
+- Video Games
+- Mathematics
+- Basketball
+
+## Currently
+
+I currently work on a large Ecommerce web platform.
+
+My current side project is a web application for combining a user's spotify playlists into a single playlist using Spotify's API.
+
 
 
 
