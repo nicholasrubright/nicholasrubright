@@ -1,41 +1,58 @@
 <h1 align="center">Hi,  I'm Nicholas</h1>
-<h4 align="center">I am a software engineer, interesting in solving complex problems with efficient software</h4>
+<h4 align="center">I am a software engineer, interesting in solving complex problems with efficient software!</h4>
 <br>
+
+Always down for a code review or working on interesting projects.
 
 ## My Skills
 
-### Programming Languages
+<h3 align="center">Programming Langugage</h3>
 
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/nicholasrubright)
+<p align="center">
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+ </p>
 
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/nicholasrubright)
+<h3 align="center">Frameworks & Libraries</h3>
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/nicholasrubright)
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/nicholasrubright)
-
-### Frameworks & Libraries
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/nicholasrubright">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   </a>
+  &emsp;
   <a href="https://github.com/nicholasrubright">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)">
   </a>
 </p>
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/nicholasrubright)
+<h3 align="center">Databases</h3>
 
-[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/nicholasrubright)
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/nicholasrubright)
-
-### Databases
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/nicholasrubright)
-
-[![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/nicholasrubright)
+<p align="center">
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+</p>
 
 
 
