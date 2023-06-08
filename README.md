@@ -1,24 +1,58 @@
-# Hello 👋, I'm Nick!
+<h1 align="center">Hi,  I'm Nicholas</h1>
+<h4 align="center">I am a software engineer, interesting in solving complex problems with efficient software!</h4>
+<br>
 
-I am a software developer and I like to solve complex problems and creating efficient software. 
+Always down for a code review or working on interesting projects.
 
-I am always looking to expand my programming knowledge by either working on side projects or learning a new technology.
+## My Skills
 
-## My Interests
-- Programming
-- Video Games
-- Mathematics
-- Basketball
+<h3 align="center">Programming Langugage</h3>
 
-## Currently
+<p align="center">
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+ </p>
 
-I currently work on a large Ecommerce web platform.
+<h3 align="center">Frameworks & Libraries</h3>
 
-My current side project is a web application for combining a user's spotify playlists into a single playlist using Spotify's API.
+<p align="center">
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)">
+  </a>
+</p>
 
+<h3 align="center">Databases</h3>
 
-
-
+<p align="center">
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://github.com/nicholasrubright">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+</p>
 
 
 
