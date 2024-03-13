@@ -2,8 +2,6 @@
 <h4 align="center">I am a software engineer, interesting in solving complex problems with efficient software!</h4>
 <br>
 
-Always down for a code review or working on interesting projects.
-
 ## My Skills
 
 <h3 align="center">Programming Langugage</h3>
