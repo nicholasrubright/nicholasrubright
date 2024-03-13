@@ -1,8 +1,10 @@
 <h1 align="center">Hi,  I'm Nicholas</h1>
-<h4 align="center">I am a software engineer, interesting in solving complex problems with efficient software!</h4>
+<h4 align="center">I am a software engineer, interested in solving complex problems with efficient software!</h4>
 <br>
 
-## My Skills
+<h2 align="center">Skills</h2>
+
+<h4 align="center">I've worked with a variety of different technologies and tools professionally and recreationally</h4>
 
 <h3 align="center">Programming Langugage</h3>
 
